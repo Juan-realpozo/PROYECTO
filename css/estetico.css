@@ -19,3 +19,48 @@
     background: #fff;
     color: #000000;
 }
+#tarjeta-de-color{
+   height: 450px;
+}
+#cartas-en-blanco{
+    height: 450px;
+}
+.introduccion{
+    padding-top: 241px;
+    padding-bottom: 163px;
+    background-color: aquamarine;
+}
+.nuestros-servicios{
+    padding-top: 100px;
+    padding-bottom: 115px;
+}
+.informacion-extra{
+    padding-top: 100px;
+    padding-bottom: 115px;
+    background-color: aquamarine;
+}
+.precios{
+    padding-top: 100px;
+    padding-bottom: 115px;
+}
+.logotipos{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: aquamarine;
+}
+.formulario{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.redes-sociales{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: aquamarine;
+}
+#boton-medio{
+    height: 50px;
+    width: 170px;
+    border-radius: 150px;
+    background: aquamarine;
+    color: #313131;
+}
